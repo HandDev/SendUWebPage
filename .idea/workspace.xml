@@ -2,8 +2,183 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46407e94-36a6-40e4-a8b4-11df20fc569a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bent/index.html" afterPath="$PROJECT_DIR$/bent/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/11007725-350980605107095-6655604774951898678-n-950x534-53.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/11007725-350980605107095-6655604774951898678-n-950x534-93.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/11154916-353625464842609-827234414826762277-o-2-2048x1365-61.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/11154916-353625464842609-827234414826762277-o-2048x1365-31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/11221931-506450399531742-5779576466150203815-o-1000x667-70.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/12507341-439726869565801-4235085437770294707-n-960x540-21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/12509814-442419265963228-6437923874266788875-n-960x540-97.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/12523190-441860799352408-6891762117635202415-n-960x540-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/12573130-439726806232474-1488386429772201856-n-960x540-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/2-2480x1754-28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/2-462x90-54.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/2-462x90-92.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/2016-03-03-8-2480x1754-79.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/276x72-70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/3-2266x1270-76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/860541-434338410104647-2389696197590344264-o-1440x810-31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/960x720-0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/bootstrap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/coin-500x500-98.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/eduino-screenshot-2266x1270-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/footer-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/google-fonts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/kakaotalk-photo-2016-06-07-20-29-56-1280x721-15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/kakaotalk-photo-2016-06-09-20-21-43-84-3000x2000-92.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/kakaotalk-photo-2016-06-09-20-21-45-29-2716x1810-26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/kakaotalk-photo-2016-06-09-20-21-46-75-4928x3264-64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/letter-550x550-20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/person-apple-laptop-notebook-5616x3744-46.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/person-apple-laptop-notebook-5616x3744-84.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/qrcodeimg-357x357-85.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/responsive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/slide1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/slide2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/slide3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/slide31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/unlimited-websites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/images/untitled-3-500x500-26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fonts/Pe-icon-7-stroke.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fonts/Pe-icon-7-stroke.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fonts/Pe-icon-7-stroke.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/about_iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/best_screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/download_screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/fun_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/iPhone02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/iPhone04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/iPhone05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/iPhone06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/iPhone07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/iPhone08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/iPhone09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/iPhone_Home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/main_screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/service_screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/subscribe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/images/testimonial.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/icons/button-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/icons/grid-menu-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/icons/menu-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/icons/menu-icons2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/icons/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/icons/search2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/icons/service-icon-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/icons/service-icon-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/icons/service-icon-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/icons/service-icon-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/icons/social-icons2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/icons/weather-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/icons/weather-main.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/team/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/team/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/team/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/team/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/works/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/works/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/works/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/works/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/works/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/works/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/works/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/img/works/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/address.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/animate.css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/bootstrap-carousel-swipe/bootstrap-carousel-swipe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/jarallax/jarallax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/mobirise-slider/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/mobirise/css/mbr-additional.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/mobirise/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/mobirise/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/smooth-scroll/SmoothScroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/assets/web/assets/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/color/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/css/Pe-icon-7-stroke.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/css/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/css/prettyPhoto.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/error.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fonts/Pe-icon-7-stroke.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/jquery-1.10.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/jquery.ajaxchimp.langs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/jquery.ajaxchimp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/jquery.counterup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/jquery.easing.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/jquery.fitvids.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/jquery.parallax-1.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/jquery.prettyPhoto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/jquery.scrollTo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/smoothscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/js/wow.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SendUWebPage.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,28 +200,48 @@
     <favorites_list name="SendUWebPage" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bent/index.html">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4972">
-              <caret line="573" column="60" selection-start-line="573" selection-start-column="60" selection-end-line="573" selection-end-column="60" />
+            <state relative-caret-position="240">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#51#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/assets/web/assets/jquery/jquery.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="3924" selection-start-line="1" selection-start-column="3397" selection-end-line="1" selection-end-column="3924" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,6 +250,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/bent/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
@@ -64,9 +261,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1200" />
+    <option name="width" value="2560" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -93,8 +293,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -123,19 +321,126 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bent" />
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SendUWebPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SendUWebPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SendUWebPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SendUWebPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SendUWebApp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -148,32 +453,33 @@
       <option name="presentableId" value="Default" />
       <updated>1471518843470</updated>
       <workItem from="1471518845088" duration="99000" />
+      <workItem from="1476704942904" duration="979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99000" />
+    <option name="totallyTimeSpent" value="1078000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <frame x="0" y="0" width="2560" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32957503" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29332042" sideWeight="0.5015625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.4984375" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29332042" sideWeight="0.4984375" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -192,7 +498,25 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/bent/index.html" />
+    <entry file="file://$PROJECT_DIR$/views/sendu.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/bin/express">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -200,11 +524,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bent/index.html">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4972">
-          <caret line="573" column="60" selection-start-line="573" selection-start-column="60" selection-end-line="573" selection-end-column="60" />
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/assets/web/assets/jquery/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="3924" selection-start-line="1" selection-start-column="3397" selection-end-line="1" selection-end-column="3924" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#51#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

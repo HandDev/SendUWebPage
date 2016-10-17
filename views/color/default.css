@@ -1,0 +1,44 @@
+
+a,.tp-caption a.btn:hover {
+	color: #ffffff;
+	opacity : 0.5;
+}
+.top-nav-collapse {
+	background: #ffffff;
+	opacity : 0.5;
+}
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #ffffff;
+	opacity : 0.5;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #000000;
+		opacity : 0.5;
+}
+
+.widget-avatar .avatar:hover {
+    border: 5px solid #000000;
+		opacity : 0.5;
+}
+
+.bg-skin {
+	background: #ffffff;
+	opacity : 0.5;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: #000000;
+}
+
+footer {
+    background-color: #3399ff;
+}
+
+.btn-skin {
+  color: #fff;
+  background-color: #3399ff;
+  border-color: #3399ff;
+}
