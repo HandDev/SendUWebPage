@@ -7,8 +7,9 @@ var reply_letter = require('./controllers/reply_letter');
 var path = require('path');
 
 var app = express();
-app.set('view engine', 'html');
+app.set('view engine', 'ejs');
 app.use(express.static(__dirname + '/views'));
+app.engine('html', require('ejs').renderFile);
 
 app.use('/assets',express.static(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, '/views')));
