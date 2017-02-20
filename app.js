@@ -3,14 +3,14 @@
  */
 
 var express = require('express');
-var reply = require('./reply');
+var reply = require('reply');
 var path = require('path');
 
 var app = express();
 app.set('view engine', 'html');
 app.use(express.static(__dirname + '/views'));
 
-app.use('/assets',express.static(path.join(__dirname, '/public')));
+app.use('/assets',express.static(path.join(__dirname, 'public')));
 
 app.use('/reply', reply);
 
