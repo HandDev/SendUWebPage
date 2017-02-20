@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46407e94-36a6-40e4-a8b4-11df20fc569a" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/views/reply.ejs" afterPath="$PROJECT_DIR$/views/reply_letter.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/reply_letter.js" afterPath="$PROJECT_DIR$/controllers/reply_letter.js" />
     </list>
@@ -95,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/controllers/reply_letter.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="155">
-              <caret line="7" column="94" selection-start-line="7" selection-start-column="94" selection-end-line="7" selection-end-column="94" />
+              <caret line="7" column="96" selection-start-line="7" selection-start-column="96" selection-end-line="7" selection-end-column="96" />
               <folding>
                 <element signature="e#0#50#0" expanded="false" />
               </folding>
@@ -329,7 +328,7 @@
       <workItem from="1471518845088" duration="99000" />
       <workItem from="1476704942904" duration="1426000" />
       <workItem from="1487407716817" duration="2444000" />
-      <workItem from="1487609522932" duration="3202000" />
+      <workItem from="1487609522932" duration="3293000" />
     </task>
     <task id="LOCAL-00001" summary="Av1">
       <created>1487611373277</created>
@@ -408,11 +407,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487612734743</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added  directory for views">
+      <created>1487612866083</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1487612866083</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7171000" />
+    <option name="totallyTimeSpent" value="7262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -775,7 +781,7 @@
     <entry file="file://$PROJECT_DIR$/controllers/reply_letter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
-          <caret line="7" column="94" selection-start-line="7" selection-start-column="94" selection-end-line="7" selection-end-column="94" />
+          <caret line="7" column="96" selection-start-line="7" selection-start-column="96" selection-end-line="7" selection-end-column="96" />
           <folding>
             <element signature="e#0#50#0" expanded="false" />
           </folding>
