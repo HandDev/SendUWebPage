@@ -4,6 +4,7 @@
 
 var express = require('express');
 var reply = require('./reply');
+var path = require('path');
 
 var app = express();
 app.set('view engine', 'html');
