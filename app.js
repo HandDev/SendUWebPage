@@ -11,6 +11,7 @@ app.set('view engine', 'html');
 app.use(express.static(__dirname + '/views'));
 
 app.use('/assets',express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, '/views')));
 
 app.use('/reply/letter', reply_letter);
 
