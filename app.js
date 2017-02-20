@@ -3,7 +3,7 @@
  */
 
 var express = require('express');
-var reply = require('reply');
+var reply = require('./controllers/reply');
 var path = require('path');
 
 var app = express();
