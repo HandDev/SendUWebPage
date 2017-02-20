@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52c4f5b6-9314-4427-a953-9078e45b181c" name="SendU" url="http://sendu.kr">
+        <fileTransfer host="sendu.kr" port="22" privateKey="$PROJECT_DIR$/../../../SendU.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,199 @@
+#content-wrapper {
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+#content-wrapper .input-wrapper {
+    display: table-cell;
+    vertical-align: middle;
+}
+#content-wrapper .input-wrapper .container {
+    padding: 20px 20px 0 20px;
+    max-width: 600px;
+}
+.input-wrapper {
+    display: table;
+}
+.input-wrapper .title {
+    margin: 0 0 20px;
+    font-weight: 300;
+}
+.input-wrapper .title b {
+    font-weight: 600;
+}
+.input-wrapper .audible {
+    display: none;
+}
+.input-wrapper .content > .title {
+    display: none;
+}
+.input-wrapper .content .teams {
+    margin: 10px -2px;
+    height: 300px;
+    overflow-y: scroll;
+}
+.input-wrapper .content .teams::-webkit-scrollbar {
+    width: 4px;
+}
+.input-wrapper .content .teams::-webkit-scrollbar-thumb {
+    background-color: #43aaf1;
+    border-radius: 2px;
+}
+
+.input-wrapper .content .teams > .team {
+    height: 80px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #efefef;
+}
+.input-wrapper .content .teams > .team label {
+    margin: 0;
+}
+.input-wrapper .content .teams > .team:last-child {
+    margin: 0;
+    border: 0;
+}
+.input-wrapper .content .teams > .team > div {
+    padding: 2px;
+}
+.input-wrapper .content .teams .team .delete {
+    font-size: 18px;
+    padding: 10px 2px;
+}
+.input-wrapper .content .teams .team:first-child .delete {
+    display: none;
+}
+.input-wrapper .content .left-money h4 small {
+    font-weight: 300;
+    line-height: 1.6;
+}
+#teams_vote .team {
+    padding: 0 10px;
+    height: 45px;
+    color: #43aaf1;
+    border: 1px solid #399ce0;
+}
+#teams_vote .team i {
+    color: #fff;
+}
+#teams_vote .team.active {
+    background-color: #43aaf1;
+    border: 1px solid #399ce0;
+    color: #fff;
+}
+.steps ul {
+    margin: 25px 0 0;
+    text-align: center;
+}
+.steps ul > li {
+    min-width: 40px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    padding: 9px;
+    font-weight: 600;
+    font-size: 15px;
+    margin: 0 2px;
+    display: inline-block;
+}
+.steps ul > li:hover,
+.steps ul > li.done {
+    background-color: #edf2fd;
+}
+.steps ul > li.current,
+.steps ul > li.done {
+    border-color: #43aaf1;
+}
+.steps ul > li > a,
+.steps ul > li > a:hover,
+.steps ul > li > a:focus,
+.steps ul > li.disabled > a,
+.steps ul > li.disabled > a:hover,
+.steps ul > li.disabled > a:active {
+    color: #999;
+    text-decoration: none;
+}
+.steps ul > li.current > a,
+.steps ul > li.current > a:hover,
+.steps ul > li.current > a:focus,
+.steps ul > li.done > a,
+.steps ul > li.done > a:hover,
+.steps ul > li.done > a:focus {
+    color: #43aaf1;
+}
+#step-form > div a {
+    outline: none;
+}
+#step-form > div ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#step-form > div > h1 {
+    display: none;
+}
+#step-form > div .content {
+    position: relative;
+    width: auto;
+    margin-top: 50px;
+}
+#step-form > div .content .body {
+    float: left;
+    position: absolute;
+    width: 100%;
+}
+#step-form > div .actions {
+    text-align: center;
+    margin-top: 30px;
+}
+#step-form > div .actions ul > li {
+    display: inline-block;
+    margin: 0 2px;
+}
+#step-form > div .actions a {
+    border-radius: 2px;
+    box-shadow: none;
+    color: #fff;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: #43aaf1;
+    border: 1px solid #399ce0;
+    text-decoration: none;
+}
+#step-form > div .actions a:hover,
+#step-form > div .actions a:focus {
+    background-color: #399ce0;
+    border-color: #399ce0;
+}
+#step-form > div .actions a[href='#previous'] {
+    background-color: transparent;
+    border: 1px solid #43aaf1;
+    color: #43aaf1;
+}
+#step-form > div .actions a[href='#previous']:hover,
+#step-form > div .actions a[href='#previous']:focus {
+    background-color: #edf2fd;
+}
+#step-form > div .actions .disabled a {
+    cursor: not-allowed;
+    background-color: #fafafa;
+    border-color: #ccc;
+    color: #ccc;
+}
+#step-form > div .actions .disabled a:hover,
+#step-form > div .actions .disabled a:focus {
+    background-color: #fafafa;
+}
+
+@media screen and (max-width: 560px) {
+    .input-wrapper .title {
+        font-size: 25px;
+    }
+}

@@ -8,6 +8,8 @@ var app = express();
 app.set('view engine', 'html');
 app.use(express.static(__dirname + '/views'));
 
+app.use('/assets',express.static(path.join(__dirname, 'public')));
+
 app.get('/', function(req, res){
    res.render('index')
 });
