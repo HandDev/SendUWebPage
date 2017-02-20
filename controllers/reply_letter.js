@@ -5,7 +5,7 @@ var express = require('express');
 var router = express.Router();
 
 router.get('/:email/:orderUUID', function (req, res) {
-    res.render({'email' : req.params.email, 'orderUUID' : req.params.orderUUID}, 'reply');
+    res.render({'email' : req.params.email, 'orderUUID' : req.params.orderUUID}, 'reply_letter');
 });
 
 module.exports = router;
