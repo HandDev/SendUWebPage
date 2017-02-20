@@ -3,7 +3,7 @@
  */
 
 var express = require('express');
-var reply = require('./controllers/reply');
+var reply_letter = require('./controllers/reply_letter');
 var path = require('path');
 
 var app = express();
@@ -12,7 +12,7 @@ app.use(express.static(__dirname + '/views'));
 
 app.use('/assets',express.static(path.join(__dirname, 'public')));
 
-app.use('/reply', reply);
+app.use('/reply/letter', reply_letter);
 
 app.get('/', function(req, res){
    res.render('index')
