@@ -18,7 +18,7 @@ app.get('/', function(req, res){
 
 app.use('/reply', reply);
 
-var server = app.listen(3000, function(){
+var server = app.listen(80, function(){
     console.log("Express server has started on port 3000")
-})
+});
 
