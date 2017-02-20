@@ -7,3 +7,5 @@ var router = express.Router();
 router.get('/:email/:orderUUID', function (req, res) {
     res.render({'email' : req.params.email, 'orderUUID' : req.params.orderUUID}, 'reply');
 });
+
+module.exports = router;
