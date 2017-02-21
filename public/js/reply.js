@@ -10,7 +10,7 @@ function reply(){
         success: function (response) {
         },
         error: function (request, status, error) {
-            alert("code:" + request.status + "\n" + "message:" + request.responseText + "\n" + "error:" + error);
+            alert("Please verify the URL");
         }
     });
 }
