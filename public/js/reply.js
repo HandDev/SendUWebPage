@@ -6,7 +6,7 @@ function reply(){
 
     $.ajax({
         type: 'POST',
-        url: 'http:/sendu.kr:3000/reply/' + email + '/' + orderUUID + '/' + message,
+        url: 'http://sendu.kr:3000/reply/' + email + '/' + orderUUID + '/' + message,
         success: function (response) {
         },
         error: function (request, status, error) {
