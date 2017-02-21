@@ -8,6 +8,8 @@ function reply(){
         type: 'POST',
         url: 'http://sendu.kr:3000/reply/' + email + '/' + orderUUID + '/' + message,
         success: function (response) {
+            alert("Sent message successfully!");
+            location.href='sendu.kr';
         },
         error: function (request, status, error) {
             alert("Please verify the URL");
